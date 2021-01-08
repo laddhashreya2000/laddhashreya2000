@@ -4,9 +4,10 @@ I am Shreya Laddha, a third-year undergraduate student at IIT Bombay. I am curre
 
 I have a keen interest in Deep Learning, PCB design and communication systems. I am also the current Communication Subsystem Head at IIT Bombay Student Satellite Program ([IITBSSP](https://www.aero.iitb.ac.in/satlab/)).
 
-U can find more about me [here](https://laddhashreya2000.github.io/) or reach out to me via [LinkedIn](https://www.linkedin.com/in/shreya-laddha/) or [Facebook](https://www.facebook.com/shreya.laddha.779)
-<br/><br/>
+You can find more about me [here](https://laddhashreya2000.github.io/) or reach out to me via [LinkedIn](https://www.linkedin.com/in/shreya-laddha/) or [Facebook](https://www.facebook.com/shreya.laddha.779)
 
+---
+<br/>
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
