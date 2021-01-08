@@ -7,7 +7,7 @@ I have a keen interest in Deep Learning, PCB design and communication systems. I
 You can find more about me [here](https://laddhashreya2000.github.io/) or reach out to me via [LinkedIn](https://www.linkedin.com/in/shreya-laddha/) or [Facebook](https://www.facebook.com/shreya.laddha.779)
 
 ---
-<br/>
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,6 +19,8 @@ You can find more about me [here](https://laddhashreya2000.github.io/) or reach 
 - ⚡ Fun fact: ...
 --> 
 <!-- - 📫 How to reach me: ... -->
+
+### My GitHub Stats
 
 ![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=laddhashreya2000&show_icons=true&theme=radical&hide=issues,stars&count_private=true)
 
