@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shreya Laddha, a fourth-year Electrical Engineering undergraduate student at IIT Bombay. I will be joining Google full-time in the month of July as a Software Engineer. My latest experience was as a Summer Analyst (2021) at Goldman Sachs. 
+I am Shreya Laddha. I joined as a Software Engineer at Google this year. I previously interned at Goldman Sachs as Summer Analyst 2021. I graduated from IIT Bombay with a major in Electrical Engineering and minors in Computer Science & Engineering and Artificial Intelligence & Data Science.
 
 I have a keen interest in Natural Language Processing, Deep Learning, PCB design and communication systems. I am also the current Non-Technical Subsystem Head at IIT Bombay Student Satellite Program ([IITBSSP](https://www.aero.iitb.ac.in/satlab/)).
 
